@@ -74,6 +74,12 @@ script.py
     print("done")
 
 
+<br>
+
+### Live Preview: https://translate-pages-task.vercel.app/
+
+<br>
+
 <p> For any questions reach me at : noaman.akram@pm.me  </p>
 <p> or https://www.linkedin.com/in/noamanelsayed/ </p>
 
